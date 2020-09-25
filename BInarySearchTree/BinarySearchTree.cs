@@ -288,8 +288,6 @@ namespace BInarySearchTree
                 return 1 + hL;
             else
                 return 1 + hR;
-
-
-        }
+   }
     }
 }
